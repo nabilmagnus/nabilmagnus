@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabil AMEZIANE </h1>
+<h1 align="center">Hi 👋, I'm Nabil </h1>
 <h3 align="center">Data Engineer </h3>
 
 ### Connect with me
